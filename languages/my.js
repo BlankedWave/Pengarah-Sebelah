@@ -451,7 +451,7 @@ const myLang = {
     "defineDescription": "Dapatkan definisi perkataan",
     "defineNoWordProvided": "Sila berikan perkataan untuk ditakrifkan.",
     "defineNoDefinitionFound": "Tiada definisi ditemui untuk \"{{word}}\".",
-    "defineError": "Tidak dapat mencari definisi. Sila cuba perkataan lain."
+    "defineError": "Tidak dapat mencari definisi. Sila cuba perkataan lain.",
     "dictionaryDescription": "Cari definisi perkataan",
     "dictionaryNoWordProvided": "Tiada perkataan diberikan. Sila berikan perkataan untuk dicari.",
     "dictionaryError": "Gagal mengambil definisi kamus. Sila cuba lagi dengan perkataan lain.",
