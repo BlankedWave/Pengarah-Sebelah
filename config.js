@@ -4,10 +4,10 @@ module.exports = {
   ownerId: '267958390389604362',
   status: {
     rotateDefault: [
-      { name: 'Netflix', type: ActivityType.Watching },
+      { name: 'Orang Bawahan', type: ActivityType.Watching },
       { name: 'GTA VI', type: ActivityType.Playing },
-      { name: 'on YouTube', type: ActivityType.Streaming, url: 'https://www.twitch.tv/blankedwave' },
-      { name: 'Spotify', type: ActivityType.Listening },
+      { name: 'on YouTube', type: ActivityType.Streaming, url: 'https://www.youtube.com/watch?v=K1qmTR-UySk&start=269' },
+      { name: 'Aduan', type: ActivityType.Listening },
     ],
     songStatus: true
   },
