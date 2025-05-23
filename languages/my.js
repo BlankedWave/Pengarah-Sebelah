@@ -266,8 +266,8 @@ const myLang = {
     "invertUserError": "Anda mesti menyatakan pengguna untuk memohon kesan invert!",
     "jokeCommandDescription": "Dapatkan jenaka rawak",
     "jokeEmbedTitle": "Jenaka Rawak",
-    "jokeError": "Satu ralat berlaku semasa melaksanakan arahan."
-        "memeCommandDescription": "Dapatkan meme rawak dari Reddit",
+    "jokeError": "Satu ralat berlaku semasa melaksanakan arahan.",
+    "memeCommandDescription": "Dapatkan meme rawak dari Reddit",
     "memeError": "Satu ralat berlaku semasa mengambil meme.",
     "quoteCommandDescription": "Dapatkan petikan rawak",
     "quoteFallbackText": "Untuk menjadi, atau tidak menjadi, itulah persoalannya.",
