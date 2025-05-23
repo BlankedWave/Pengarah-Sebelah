@@ -2,10 +2,10 @@
 module.exports = {
     enabled: true, 
     lavalink: {
-      name: "GlaceYT",
-      password: "glaceyt",
-      host: "5.39.63.207",
-      port:  8262,
+      name: "musik-node",
+      password: "plamea",
+      host: "lavalink.pericsq.ro",
+      port:  4499,
       secure: false
     }
 };
