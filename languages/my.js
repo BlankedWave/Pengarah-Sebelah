@@ -1,5 +1,4 @@
 const myLang = {
- {
     "error": "Satu ralat berlaku semasa memproses arahan anda.",
     "commandDisabled": "Arahan ini sedang dilumpuhkan.",
     "channelInfo": "Maklumat Saluran",
