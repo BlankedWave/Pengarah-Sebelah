@@ -597,7 +597,7 @@ const myLang = {
     "passwordDMError": "Saya tidak dapat menghantar DM kepada anda. Sila pastikan DM anda dibuka.",
     "worldClockDescription": "Memaparkan waktu semasa di pelbagai zon waktu.",
     "worldClockTitle": "⏰ Jam Dunia",
-    "mytFieldName": ":flag_my: Malaysia (MYT)',
+    "mytFieldName": ":flag_my: Malaysia (MYT)",
     "istFieldName": ":flag_in: India (IST)",
     "gmtFieldName": ":flag_eu: London (GMT)",
     "estFieldName": ":flag_us: New York (EST)",
