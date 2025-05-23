@@ -57,7 +57,7 @@ const myLang = {
     "replitLink": "Tiada",
     "youtubeLink": "https://www.youtube.com/@MuhammadAqilVEVO",
     "supportIconURL": "https://cdn.discordapp.com/attachments/1230824451990622299/1230824519220985896/6280-2.gif?ex=6638ae28&is=66375ca8&hm=13e4a1b91a95b2934a39de1876e66c11711c7b30ac1a91c2a158f2f2ed1c2fc6&",
-    "supportImageURL": "https://64.media.tumblr.com/4f3edda0697eb29ed4f095ff326c88c8/13e1f1163ca9c4bc-e2/s400x600/636057e54cc3d9e9559ff6548555042a94b432a4.gif",
+    "supportImageURL": "https://cdn.discordapp.com/attachments/1181603235237216286/1375380031009722380/fkyozUr.gif?ex=683179f8&is=68302878&hm=f2051a0d83ebedcd68054f550abb42735292bff26114a2ef29fb472b57087fbc&",
     "supportDescriptionTitle": "Sertai pelayan Discord kami untuk sokongan dan kemas kini",
     "followUsOn": "Ikuti kami di",
     "discord": "Discord",
