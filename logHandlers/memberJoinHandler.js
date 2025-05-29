@@ -149,17 +149,17 @@ async function handleWelcomeChannel(member, welcomeSettings) {
         const attachment = new AttachmentBuilder(cardBuffer, { name: 'welcome.png' });
 
         const welcomeEmbed = new EmbedBuilder()
-            .setTitle("Welcome!")
-            .setDescription(`${member}, You are the **${memberCount}${suffix}** member of our server!`)
+            .setTitle("Selamat Datang!")
+            .setDescription(`${member}, Anda adalah orang ke-**${memberCount}${suffix}** dalam server ini!`)
             .setColor("#00e5ff")
             .setThumbnail(serverIcon)
             .setImage('attachment://welcome.png')
             .addFields(
                 { name: 'Username', value: username, inline: true },
-                { name: 'Join Date', value: joinDate, inline: true },
-                { name: 'Account Created', value: creationDate, inline: true }
+                { name: 'Lapor Diri', value: joinDate, inline: true },
+                { name: 'Akaun Dicipta', value: creationDate, inline: true }
             )
-            .setFooter({ text: "We're glad to have you here!", iconURL: serverIcon })
+            .setFooter({ text: "Kami mengalu-alukan kedatangan anda!", iconURL: serverIcon })
             .setAuthor({ name: username, iconURL: user.displayAvatarURL() })
             .setTimestamp();
 
