@@ -150,21 +150,21 @@ async function handleWelcomeChannel(member, welcomeSettings) {
 
         const welcomeEmbed = new EmbedBuilder()
             .setTitle("Selamat Datang!")
-            .setDescription(`${member}, Anda adalah orang ke-**${memberCount}${suffix}** dalam server ini!`)
+            .setDescription(`${member}, Anda adalah orang ke-**${memberCount}** dalam server ini!`)
             .setColor("#00e5ff")
             .setThumbnail(serverIcon)
             .setImage('attachment://welcome.png')
             .addFields(
-                { name: 'Username', value: username, inline: true },
-                { name: 'Lapor Diri', value: joinDate, inline: true },
-                { name: 'Akaun Dicipta', value: creationDate, inline: true }
+                { name: 'Nama Pengguna', value: username, inline: true },
+                { name: 'Lapor Diri Server', value: joinDate, inline: true },
+                { name: 'Lapor Diri Discord', value: creationDate, inline: true }
             )
             .setFooter({ text: "Kami mengalu-alukan kedatangan anda!", iconURL: serverIcon })
             .setAuthor({ name: username, iconURL: user.displayAvatarURL() })
             .setTimestamp();
 
         await welcomeChannel.send({
-            content: `Hey ${member}!`,
+            content: `Assalamu'alaikum & Salam Sejahtera ${member}!`,
             embeds: [welcomeEmbed],
             files: [attachment]
         });
